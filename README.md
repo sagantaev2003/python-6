@@ -8,24 +8,25 @@
 **📂 Структура базы данных**
 
 **Таблица agents**
-id (INTEGER, PRIMARY KEY, AUTOINCREMENT)
-codename (TEXT, UNIQUE) - уникальный позывной
-rank (INTEGER, CHECK(rank >= 1)) - ранг агента
-skill (TEXT)
-alive (BOOLEAN: 1 = жив, 0 = погиб)
+- id (INTEGER, PRIMARY KEY, AUTOINCREMENT)
+- codename (TEXT, UNIQUE) - уникальный позывной
+- rank (INTEGER, CHECK(rank >= 1)) - ранг агента
+- skill (TEXT)
+- alive (BOOLEAN: 1 = жив, 0 = погиб)
 
 **Таблица missions**
-id (INTEGER, PRIMARY KEY, AUTOINCREMENT)
-title (TEXT)
-difficulty (INTEGER, от 1 до 10)
-status (TEXT: planned , in progress , failed , success )
-assigned_agent (INTEGER, FOREIGN KEY → agents.id, ON DELETE CASCADE)
+- id (INTEGER, PRIMARY KEY, AUTOINCREMENT)
+- title (TEXT)
+- difficulty (INTEGER, от 1 до 10)
+- status (TEXT: planned , in progress , failed , success )
+- assigned_agent (INTEGER, FOREIGN KEY → agents.id, ON DELETE CASCADE)
 
- Задания
-Часть 1. Создание базы
+
+**Часть 1. Создание базы**
 1. Создать базу resistance.db .
 2. Создать таблицы agents и missions с указанными ограничениями ( UNIQUE , CHECK , FOREIGN KEY ).
-Часть 2. CRUD-операции
+
+**Часть 2. CRUD-операции**
 1. Create
 Добавить не менее 6 агентов с разными рангами и навыками.
 Добавить не менее 10 миссий, привязанных к агентам.
