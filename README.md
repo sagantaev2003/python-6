@@ -79,3 +79,5 @@ Operator:
 
 ### Результат
 
+<img width="457" height="336" alt="image" src="https://github.com/user-attachments/assets/f9f43720-f354-4edf-b80d-6e177be64cba" />
+
