@@ -101,6 +101,11 @@ Operator:
 
 <img width="529" height="566" alt="image" src="https://github.com/user-attachments/assets/26a176ba-8f10-42bd-a2d4-0cfaf093f9ba" />
 
+<img width="664" height="831" alt="image" src="https://github.com/user-attachments/assets/c7813765-0597-42fd-b8a7-41232a52f892" />
+
+<img width="613" height="614" alt="image" src="https://github.com/user-attachments/assets/dec05035-f5dc-4c34-8c86-af0d26dc28bd" />
+
+
 
 ⭐ Дополнительные задания
 - Добавить валидацию: при назначении миссии учитывать, что агент не может иметь одновременно больше 3 активных миссий ( status = 'in progress' ).
