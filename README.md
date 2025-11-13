@@ -85,6 +85,19 @@ Operator:
 
 <img width="400" height="195" alt="image" src="https://github.com/user-attachments/assets/92c4ae1b-4d6f-4a94-86a2-20412817daf8" />
 
+<img width="919" height="775" alt="image" src="https://github.com/user-attachments/assets/5b9df316-751f-4d4b-8fd5-2af63a035ea0" />
+
+<img width="580" height="649" alt="image" src="https://github.com/user-attachments/assets/74e83af9-d727-49e8-9780-dcd118382f4e" />
+
+<img width="615" height="747" alt="image" src="https://github.com/user-attachments/assets/28cefd4b-55a7-42dd-b9b7-d0522f01d26f" />
+
+<img width="535" height="784" alt="image" src="https://github.com/user-attachments/assets/dc935f30-3bb9-491b-a733-1b3ff81a08c1" />
+
+
+
+
+
+
 
 
 
