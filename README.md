@@ -106,7 +106,12 @@ Operator:
 - Добавить валидацию: при назначении миссии учитывать, что агент не может иметь одновременно больше 3 активных миссий ( status = 'in progress' ).
 - Реализовать отчёт: какие агенты не назначены ни на одну миссию.
 
-<img width="608" height="629" alt="image" src="https://github.com/user-attachments/assets/d5461ac5-da95-485d-b778-69be2cfc53b3" />
+
+<img width="542" height="752" alt="image" src="https://github.com/user-attachments/assets/c011eafd-14be-455f-8259-e29ffab1385a" />
+
+<img width="552" height="811" alt="image" src="https://github.com/user-attachments/assets/056ca19e-cceb-4f9d-997e-29eba6112825" />
+
+
 
 
 
