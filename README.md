@@ -69,10 +69,6 @@ Operator:
 - может просматривать списки агентов и миссий;
 - не имеет права удалять агентов.
 
-⭐ Дополнительные задания
-- Добавить валидацию: при назначении миссии учитывать, что агент не может иметь одновременно больше 3 активных миссий ( status = 'in progress' ).
-- Реализовать отчёт: какие агенты не назначены ни на одну миссию.
-
 
 ### 📝 Файл:
 - **main.py** — код программы.
@@ -92,6 +88,36 @@ Operator:
 <img width="615" height="747" alt="image" src="https://github.com/user-attachments/assets/28cefd4b-55a7-42dd-b9b7-d0522f01d26f" />
 
 <img width="535" height="784" alt="image" src="https://github.com/user-attachments/assets/dc935f30-3bb9-491b-a733-1b3ff81a08c1" />
+
+<img width="477" height="369" alt="image" src="https://github.com/user-attachments/assets/2cf53a5f-c3d9-493b-b026-7d5f3e172a1b" />
+
+<img width="515" height="597" alt="image" src="https://github.com/user-attachments/assets/6187b671-2c56-4852-99ba-780450c5780b" />
+
+<img width="556" height="640" alt="image" src="https://github.com/user-attachments/assets/f706a48a-7c7b-4be7-865b-ad88ed55fb82" />
+
+<img width="541" height="590" alt="image" src="https://github.com/user-attachments/assets/d0b70680-8f61-4389-b462-0221c09506e2" />
+
+<img width="635" height="848" alt="image" src="https://github.com/user-attachments/assets/4a55192c-b2a0-4b29-b4cf-172bf0f456a0" />
+
+<img width="529" height="566" alt="image" src="https://github.com/user-attachments/assets/26a176ba-8f10-42bd-a2d4-0cfaf093f9ba" />
+
+
+⭐ Дополнительные задания
+- Добавить валидацию: при назначении миссии учитывать, что агент не может иметь одновременно больше 3 активных миссий ( status = 'in progress' ).
+- Реализовать отчёт: какие агенты не назначены ни на одну миссию.
+
+<img width="608" height="629" alt="image" src="https://github.com/user-attachments/assets/d5461ac5-da95-485d-b778-69be2cfc53b3" />
+
+
+
+
+
+ 
+
+
+
+ 
+
 
 
 
