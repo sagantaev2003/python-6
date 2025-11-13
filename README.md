@@ -116,7 +116,11 @@ Operator:
 
 <img width="542" height="752" alt="image" src="https://github.com/user-attachments/assets/c011eafd-14be-455f-8259-e29ffab1385a" />
 
-<img width="552" height="811" alt="image" src="https://github.com/user-attachments/assets/056ca19e-cceb-4f9d-997e-29eba6112825" />
+
+<img width="953" height="506" alt="image" src="https://github.com/user-attachments/assets/dac8e446-d778-412e-916e-a3153ae65771" />
+
+
+
 
 
 
