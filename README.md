@@ -79,5 +79,13 @@ Operator:
 
 ### Результат
 
-<img width="457" height="336" alt="image" src="https://github.com/user-attachments/assets/f9f43720-f354-4edf-b80d-6e177be64cba" />
+<img width="456" height="332" alt="image" src="https://github.com/user-attachments/assets/3680749c-1c76-4211-bcaf-65233ad48357" />
+
+<img width="627" height="432" alt="image" src="https://github.com/user-attachments/assets/5f365a85-60ce-4ede-9792-b24806f68b98" />
+
+<img width="400" height="195" alt="image" src="https://github.com/user-attachments/assets/92c4ae1b-4d6f-4a94-86a2-20412817daf8" />
+
+
+
+
 
